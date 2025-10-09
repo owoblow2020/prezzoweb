@@ -1,5 +1,5 @@
 # base image  
-FROM python:3.8   
+FROM python:3.14.0   
 # setup environment variable  
 ENV DockerHOME=/home/app/prezzo/api  
 
